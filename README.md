@@ -6,4 +6,17 @@ a weak positive correlation between blood pressure and Age which signifies
 that the relationship between them is minimal and may not have strong practical significance. For blood pressure and cholesterol level, 
 it's significant.
 
-in the second pics, shows the results of the regression analysis 
+in the second pics, shows the results of the regression analysis.
+Main Takeaways
+Smoking has the largest effect (~+23–27 mg/dL higher cholesterol in smokers).
+
+Blood pressure has a strong continuous relationship (~+0.78 mg/dL cholesterol per 1 mmHg BP).
+
+Age has a modest but clear positive effect.
+
+
+
+Overall the model fits well (R² ≈ 0.79) and the main predictors behave as expected from medical knowledge: older age, higher BP, and smoking all associate with worse (higher) cholesterol.
+
+
+
